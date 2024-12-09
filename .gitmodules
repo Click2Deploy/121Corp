@@ -6,43 +6,37 @@
 [submodule "humanytek-team/sale_order_show_payments"]
 	path = humanytek-team/sale_order_show_payments
 	url = git@github.com:humanytek-team/sale_order_show_payments.git
-	branch = 12.0
+	branch = 17.0
 
 [submodule "humanytek-team/account_third_parties"]
 	path = humanytek-team/account_third_parties
 	url = git@github.com:humanytek-team/account_third_parties.git
-	branch = 12.0
+	branch = 17.0
 
 [submodule "humanytek-team/proyect_task_log_reminder"]
 	path = humanytek-team/proyect_task_log_reminder
 	url = git@github.com:humanytek-team/proyect_task_log_reminder.git
-	branch = master
+	branch = 17.0
 
 [submodule "humanytek-team/project_follower_custom_archive"]
 	path = humanytek-team/project_follower_custom_archive
 	url = git@github.com:humanytek-team/project_follower_custom_archive.git
-	branch = master
+	branch = 17.0
 
 [submodule "humanytek-team/sale_remove_product_details"]
 	path = humanytek-team/sale_remove_product_details
 	url = git@github.com:humanytek-team/sale_remove_product_details.git
-	branch = master
+	branch = 17.0
 
 [submodule "humanytek-team/project_follower_from_task"]
 	path = humanytek-team/project_follower_from_task
 	url = git@github.com:humanytek-team/project_follower_from_task.git
-	branch = master
+	branch = 17.0
 
 [submodule "humanytek-team/sale_order_add_po"]
 	path = humanytek-team/sale_order_add_po
 	url = git@github.com:humanytek-team/sale_order_add_po.git
-	branch = master
-
-[submodule "humanytek-team/project_task_record_by_user"]
-	path = humanytek-team/project_task_record_by_user
-	url = git@github.com:humanytek-team/project_task_record_by_user.git
-	branch = master
-
+	branch = 17.0
 
 [submodule "humanytek-team/project_eta"]
 	path = humanytek-team/project_eta
@@ -56,11 +50,11 @@
 [submodule "humanytek-team/project_task_types"]
 	path = humanytek-team/project_task_types
 	url = git@github.com:humanytek-team/project_task_types.git
-	branch = 13.0
+	branch = 17.0
 [submodule "humanytek-team/project_unique_name"]
 	path = humanytek-team/project_unique_name
 	url = git@github.com:humanytek-team/project_unique_name.git
-	branch = 13.0
+	branch = 17.0
 [submodule "vendor-bills"]
 	path = vendor-bills
 	url = git@git.vauxoo.com:vauxoo/vendor-bills.git
@@ -71,10 +65,12 @@
 	branch = 13.0
 [submodule "humanytek-team/crm_in_contacts"]
 	path = humanytek-team/crm_in_contacts
-	url = https://github.com/humanytek-team/crm_in_contacts
+	url = git@github.com:humanytek-team/crm_in_contacts.git
+	branch = 17.0
 [submodule "humanytek-team/project_sales_team"]
 	path = humanytek-team/project_sales_team
 	url = git@github.com:humanytek-team/project_sales_team.git
+	branch = 17.0
 [submodule "humanytek-team/restrict_save_as_new_template"]
 	path = humanytek-team/restrict_save_as_new_template
 	url = git@github.com:humanytek-team/restrict_save_as_new_template.git
