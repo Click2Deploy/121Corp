@@ -8,11 +8,6 @@
 	url = git@github.com:humanytek-team/sale_order_show_payments.git
 	branch = 12.0
 
-[submodule "humanytek-team/account_rename_partner"]
-	path = humanytek-team/account_rename_partner
-	url = git@github.com:humanytek-team/account_rename_partner.git
-	branch = 12.0
-
 [submodule "humanytek-team/account_third_parties"]
 	path = humanytek-team/account_third_parties
 	url = git@github.com:humanytek-team/account_third_parties.git
@@ -77,3 +72,13 @@
 [submodule "humanytek-team/crm_in_contacts"]
 	path = humanytek-team/crm_in_contacts
 	url = https://github.com/humanytek-team/crm_in_contacts
+[submodule "humanytek-team/project_sales_team"]
+	path = humanytek-team/project_sales_team
+	url = git@github.com:humanytek-team/project_sales_team.git
+[submodule "humanytek-team/restrict_save_as_new_template"]
+	path = humanytek-team/restrict_save_as_new_template
+	url = git@github.com:humanytek-team/restrict_save_as_new_template.git
+	branch = 17.0
+[submodule "humanytek-team/hr_leave_archive"]
+	path = humanytek-team/hr_leave_archive
+	url = git@github.com:humanytek-team/hr_leave_archive.git
