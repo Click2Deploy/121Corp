@@ -10,7 +10,7 @@
     'author': "My Company",
     'website': "http://www.yourcompany.com",
     'category': 'Uncategorized',
-    'version': '13.0.1',
+    'version': '17.0.1',
     'price': 149,
     'currency': 'USD',
     'depends': ['l10n_mx_edi','account'],
