@@ -1,5 +1,5 @@
-[submodule "121c"]
-        path = 121c
+[submodule "humanytek-team/121c"]
+        path = humanytek-team/121c
         url = git@github.com:humanytek-team/121c.git
         branch = 17.0
 
