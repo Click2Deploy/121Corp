@@ -8,11 +8,6 @@
 	url = git@github.com:humanytek-team/sale_order_show_payments.git
 	branch = 17.0
 
-[submodule "humanytek-team/account_third_parties"]
-	path = humanytek-team/account_third_parties
-	url = git@github.com:humanytek-team/account_third_parties.git
-	branch = 17.0
-
 [submodule "humanytek-team/project_follower_custom_archive"]
 	path = humanytek-team/project_follower_custom_archive
 	url = git@github.com:humanytek-team/project_follower_custom_archive.git
