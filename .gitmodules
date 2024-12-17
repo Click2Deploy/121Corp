@@ -54,10 +54,6 @@
 	url = git@github.com:humanytek-team/project_eta.git
 	branch = master
 
-[submodule "humanytek-team/admin_fee"]
-	path = humanytek-team/admin_fee
-	url = git@github.com:humanytek-team/admin_fee.git
-	branch = 12.0
 [submodule "humanytek-team/project_task_types"]
 	path = humanytek-team/project_task_types
 	url = git@github.com:humanytek-team/project_task_types.git
